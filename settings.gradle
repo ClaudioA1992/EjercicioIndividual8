@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Ejercicio Individual 7"
+rootProject.name = "Movimiento entre activities"
 include ':app'
